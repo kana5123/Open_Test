@@ -7,3 +7,4 @@ Traceback (most recent call last):
     from PyQt5.QtWidgets import QApplication, QWidget
 ModuleNotFoundError: No module named 'PyQt5'
 >>> 
+C:\Users\user\calculator\main2.py
